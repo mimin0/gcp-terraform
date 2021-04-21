@@ -1,0 +1,7 @@
+credentials.json
+.DS_Store
+.idea/
+k8s/.terraform.lock.hcl
+k8s/.terraform/
+k8s/terraform.tfstate
+k8s/terraform.tfstate.backup
